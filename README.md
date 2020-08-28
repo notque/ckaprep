@@ -11,6 +11,7 @@ CKA Prep
 * Clean Work Service (Desk)
 * Private Space (no one else in the room)
 * Steady internet, preferably 5MB up/down.
+* 1-3 Days for Scheduling Exam
 
 The latest curriculum can always be found at [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum).
 
