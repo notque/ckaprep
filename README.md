@@ -8,6 +8,8 @@ CKA Prep
 * Chrome browser plus an extension
 * Government-issued non-expired ID
 * Webcam and microphone
+* Clean Work Service (Desk)
+* Private Space (no one else in the room)
 * Steady internet, preferably 5MB up/down.
 
 The latest curriculum can always be found at [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum).
