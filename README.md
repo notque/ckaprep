@@ -88,4 +88,4 @@ This following here is great for a testing scenario. It gives you 24 questions t
 In case you want for more information about the exam and it's topics, here is another brilliant list of curated resoures that you will find handy.
 
 - [ ] Read **CKA Resources** - [https://gist.github.com/strongjz/4c9ad30a12ab715ae94cf72d0e7bbc30](https://gist.github.com/strongjz/4c9ad30a12ab715ae94cf72d0e7bbc30)
-= [ ] Practice Questions - [Practice Questions](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)
+- [ ] Practice Questions - [https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)
