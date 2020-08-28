@@ -12,6 +12,7 @@ CKA Prep
 * Private Space (no one else in the room)
 * Steady internet, preferably 5MB up/down.
 * 1-3 Days for Scheduling Exam
+* This exam is proctored by a live human but scored by statistical sampling, so if the question asked you to create a Pod with the name of nginx and you created it with the name of web or even nginz, you're not getting points for your attempt even though it may be effectively correct.
 
 * Exam is currently in 1.18, and in September or October will be in 1.19
 
