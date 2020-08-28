@@ -19,6 +19,20 @@ CKA Prep
 * Exam is currently in 1.18, and in September or October will be in 1.19
 
 Full Rules are in the Candidate Handbook [https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook]
+Note: People have said they've had the test rescheduled when they didn't have these ready for the test with the Proctor.
+
+* Clutter-free work area
+* No objects such as paper, writing implements, electronic devices, or other objects on top of surface
+* No objects such as paper, trash bins, or other objects below the testing surface
+* No paper/print outs hanging on walls
+* Paintings and other wall décor is acceptable
+* Candidates will be asked to remove non-décor items prior to the exam being released
+* Space must be well lit so that proctor is able to see candidate’s face, hands, and surrounding work area
+* No bright lights or windows behind the candidate
+* Candidate must remain within the camera frame during the examination
+* Space must be private where there is no excessive noise. Public spaces such as coffee shops, stores, open office environments, etc. are not allowed.
+
+
 The latest curriculum can always be found at [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum).
 
 During the exam you are allowed be allowed to open **one** tab apart from the browser based terminal. You can open _any_ link under the [kubernetes.io](kubernetes.io) domain. Some links that will help during the exam are;
