@@ -18,6 +18,7 @@ CKA Prep
 
 * Exam is currently in 1.18, and in September or October will be in 1.19
 
+Full Rules are in the Candidate Handbook [https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook]
 The latest curriculum can always be found at [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum).
 
 During the exam you are allowed be allowed to open **one** tab apart from the browser based terminal. You can open _any_ link under the [kubernetes.io](kubernetes.io) domain. Some links that will help during the exam are;
