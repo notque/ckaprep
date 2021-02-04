@@ -38,7 +38,6 @@ The latest curriculum can always be found at [https://github.com/cncf/curriculum
 During the exam you are allowed be allowed to open **one** tab apart from the browser based terminal. You can open _any_ link under the [kubernetes.io](kubernetes.io) domain. Some links that will help during the exam are;
 
 * [https://kubernetes.io/docs/reference/kubectl/cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet)
-* [https://discuss.kubernetes.io](https://discuss.kubernetes.io)
 * [https://kubernetes.io/docs/home/](https://kubernetes.io/docs/home/)
 
 If you are unsure of the spec or parameters of a yaml, always use `kubectl explain <resource>.<key>`.
